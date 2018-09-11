@@ -19,8 +19,10 @@ package org.springframework.core;
 import java.util.Arrays;
 
 import org.junit.Test;
+import org.testng.annotations.Test;
 
 import static org.junit.Assert.*;
+import static org.testng.Assert.assertEquals;
 
 /**
  * @author Rob Harrop
